@@ -1,0 +1,1198 @@
+step 3 returns:
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2185:10-24 13:54:32.645  1169 29740 I wm_task_to_front: [0,8]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2186:10-24 13:54:32.646  1169 29740 I wm_focused_root_task: [0,0,1,18,finis
+h-top adjustFocusToNextFocusableTask]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2187:10-24 13:54:32.647  1169 29740 I wm_set_resumed_activity: [0,com.sec.a
+ndroid.app.launcher/.activities.LauncherActivity,finish-top adjustFocusToNextFocusableTask]
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:2188:10-24 13:54:32.664  1169  1845 I dropbox_file_copy: [/data/tombstones/
+tombstone_29,65536,SYSTEM_TOMBSTONE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2189:10-24 13:54:32.667  1169  1845 I commit_sys_config_file: [log-files,43
+58780]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2190:10-24 13:54:32.668  1169 29740 I wm_pause_activity: [0,167812691,com.d
+isney.troz/.TempleRunOzActivity,userLeaving=false,finish]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2191:10-24 13:54:32.669  1169 29740 I power_partial_wake_state: [1394,*laun
+ch*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2192:10-24 13:54:32.672  1169 29740 I wm_set_resumed_activity: [0,com.sec.a
+ndroid.app.launcher/.activities.LauncherActivity,resumeTopActivityInnerLocked]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2193:10-24 13:54:32.675  1169 29740 I wm_resume_activity: [0,1317994,8,com.
+sec.android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2194:10-24 13:54:32.681  1169  1510 I sysui_multi_action: [757,1144,758,7,8
+06,com.disney.troz,871,com.disney.troz.TempleRunOzActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2195:10-24 13:54:32.684  1169 29740 I sysui_multi_action: [757,316,758,4,75
+9,-1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2196:10-24 13:54:32.697  2759  2759 I wm_on_restart_called: [1317994,com.se
+c.android.app.launcher.activities.LauncherActivity,performRestartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2197:10-24 13:54:32.697  2759  2759 I wm_on_start_called: [1317994,com.sec.
+android.app.launcher.activities.LauncherActivity,handleStartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2198:10-24 13:54:32.700  2759  2759 I wm_on_resume_called: [1317994,com.sec
+.android.app.launcher.activities.LauncherActivity,RESUME_ACTIVITY]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2199:10-24 13:54:32.706  1169  1845 I commit_sys_config_file: [log-files,43
+58819]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2200:10-24 13:54:32.715  1169  4957 I am_proc_died: [0,29517,com.disney.tro
+z,200,2,506,6001]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2201:10-24 13:54:32.715  1169  4957 I am_uid_stopped: 10338
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2202:10-24 13:54:32.721  1169  4957 I wm_task_removed: [18,removeChild:remo
+veChild last r=ActivityRecord{a009e53 u0 com.disney.troz/.TempleRunOzActivity t-1 f}} in t=Task{3e0f489 #18 type=standa
+rd A=10338:com.disney.troz U=0 visible=false mode=fullscreen translucent=true sz=0},1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2203:10-24 13:54:32.721  1169  4957 I wm_task_removed: [18,removeTaskIfPoss
+ible,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2204:10-24 13:54:32.737  2759  2759 I wm_on_idle_called: {com.sec.android.a
+pp.launcher/com.sec.android.app.launcher.activities.LauncherActivity}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2205:10-24 13:54:32.740  1169  2682 I wm_idle_activity: [0,1317994,com.sec.
+android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2206:10-24 13:54:32.740  1169  2682 I power_partial_wake_state: [71,*launch
+*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2207:10-24 13:54:32.747  1169  4957 I am_mem_factor: [1,0]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2208:10-24 13:54:32.762  1169  1169 I dvm_lock_sample: [system_server,1,mai
+n,31,ActivityManagerService.java,6657,int com.android.server.am.ActivityManagerService.getUidState(int),OomAdjuster.jav
+a,601,void com.android.server.am.OomAdjuster.updateOomAdjLocked(java.lang.String),6]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2209:10-24 13:54:32.781  1169  8255 I sysui_multi_action: [757,803,799,dnd_
+rule_count,802,-1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2210:10-24 13:54:32.794  1169  1169 I sysui_multi_action: [757,803,799,dnd_
+mode_1,802,655]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2211:10-24 13:54:32.795  1169  1169 I sysui_multi_action: [757,803,799,dnd_
+rule_count,802,0]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2212:10-24 13:54:32.795  1169  1169 I sysui_multi_action: [757,803,799,dnd_
+type_2,802,656]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2213:10-24 13:54:32.813  1169  1612 I am_mem_factor: [0,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2387:10-24 13:54:35.736  1169 29866 I wm_task_to_front: [0,8]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2388:10-24 13:54:35.736  1169 29866 I wm_focused_root_task: [0,0,1,19,finis
+h-top adjustFocusToNextFocusableTask]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2389:10-24 13:54:35.737  1169 29866 I wm_set_resumed_activity: [0,com.sec.a
+ndroid.app.launcher/.activities.LauncherActivity,finish-top adjustFocusToNextFocusableTask]
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:2390:10-24 13:54:35.744  1169  1845 I dropbox_file_copy: [/data/tombstones/
+tombstone_30,65536,SYSTEM_TOMBSTONE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2391:10-24 13:54:35.753  1169  1845 I commit_sys_config_file: [log-files,43
+61866]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2392:10-24 13:54:35.754  1169 29866 I wm_pause_activity: [0,143060059,com.d
+isney.troz/.TempleRunOzActivity,userLeaving=false,finish]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2393:10-24 13:54:35.754  1169 29866 I power_partial_wake_state: [665,*launc
+h*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2394:10-24 13:54:35.756  1169 29866 I wm_set_resumed_activity: [0,com.sec.a
+ndroid.app.launcher/.activities.LauncherActivity,resumeTopActivityInnerLocked]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2395:10-24 13:54:35.758  1169 29866 I wm_resume_activity: [0,1317994,8,com.
+sec.android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2396:10-24 13:54:35.765  2759  2759 I wm_on_restart_called: [1317994,com.se
+c.android.app.launcher.activities.LauncherActivity,performRestartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2397:10-24 13:54:35.765  2759  2759 I wm_on_start_called: [1317994,com.sec.
+android.app.launcher.activities.LauncherActivity,handleStartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2398:10-24 13:54:35.766  1169 29866 I sysui_multi_action: [757,316,758,4,75
+9,7]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2399:10-24 13:54:35.769  2759  2759 I wm_on_resume_called: [1317994,com.sec
+.android.app.launcher.activities.LauncherActivity,RESUME_ACTIVITY]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2400:10-24 13:54:35.769  1169 29866 I wm_destroy_activity: [0,143060059,19,
+com.disney.troz/.TempleRunOzActivity,finish-imm:handleAppCrashed]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2401:10-24 13:54:35.772  1169 29866 I wm_task_removed: [19,removeChild:remo
+veChild last r=ActivityRecord{886ec5b u0 com.disney.troz/.TempleRunOzActivity t-1 f}} in t=Task{4f7c5d1 #19 type=standa
+rd A=10338:com.disney.troz U=0 visible=false mode=fullscreen translucent=true sz=0},1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2402:10-24 13:54:35.772  1169 29866 I wm_task_removed: [19,removeTaskIfPoss
+ible,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2403:10-24 13:54:35.781  1169  1510 I sysui_multi_action: [757,1144,758,8,8
+06,com.disney.troz,871,com.disney.troz.TempleRunOzActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2404:10-24 13:54:35.788  1169  1511 I input_focus: [Focus request 1ef55b3 c
+om.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity,reason=UpdateInputWindows]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2405:10-24 13:54:35.789  1169  1845 I commit_sys_config_file: [log-files,43
+61902]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2406:10-24 13:54:35.794  1169  1533 I dvm_lock_sample: [system_server,1,Act
+ivityManager,60,BroadcastQueue.java,1230,void com.android.server.am.BroadcastQueue.processNextBroadcast(boolean),,0,nul
+l,12]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2407:10-24 13:54:35.814  2759  2759 I wm_on_idle_called: {com.sec.android.a
+pp.launcher/com.sec.android.app.launcher.activities.LauncherActivity}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2408:10-24 13:54:35.815  1169  4871 I wm_idle_activity: [0,1317994,com.sec.
+android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2409:10-24 13:54:35.815  1169  4871 I power_partial_wake_state: [61,*launch
+*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2410:10-24 13:54:35.821  1169 29866 I am_uid_stopped: 10338
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2411:10-24 13:54:35.828  1169  1919 I input_focus: [Focus entering 1ef55b3
+com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity (server),reason=Window became foc
+usable. Previous reason: NOT_VISIBLE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2412:10-24 13:54:35.840  1169  4874 I power_partial_wake_state: [3008,Audio
+Mix:audioserver]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2413:10-24 13:54:35.841  1169  4958 I power_partial_wake_state: [3009,Audio
+Mix:audioserver]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2414:10-24 13:54:35.841  1169  4958 I power_partial_wake_state: [3010,Audio
+Mix:audioserver]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:2415:10-24 13:54:35.841  1169  8258 I power_partial_wake_state: [3008,Audio
+Mix:audioserver]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5385:10-24 13:58:07.644  1169  2252 I sysui_multi_action: [757,803,799,dnd_
+rule_count,802,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5386:10-24 13:58:07.644  1169  2252 I sysui_multi_action: [757,803,799,dnd_
+type_0,802,211780]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5387:10-24 13:58:07.648  1169  2252 I sysui_multi_action: [757,803,799,dnd_
+rule_count,802,0]
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:5388:10-24 13:58:07.653  1169  1845 I dropbox_file_copy: [/data/tombstones/
+tombstone_31,65536,SYSTEM_TOMBSTONE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5389:10-24 13:58:07.656  1169  1845 I commit_sys_config_file: [log-files,45
+73769]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5390:10-24 13:58:07.673  1169  1169 I notification_cancel: [10031,2139,com.
+android.systemui,2131233568,noti_DoNotDisturb,-1,0,1088,8,NULL]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5391:10-24 13:58:07.673  1169  1169 I sysui_multi_action: [757,803,799,dnd_
+mode_0,802,29]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5392:10-24 13:58:07.673  1169  1169 I sysui_multi_action: [757,803,799,dnd_
+rule_count,802,0]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5393:10-24 13:58:07.673  1169  1169 I sysui_multi_action: [757,803,799,dnd_
+type_0,802,29]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5394:10-24 13:58:07.678  1169  4958 I sysui_multi_action: [757,803,799,dnd_
+rule_count,802,0]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5395:10-24 13:58:07.685  1169  1845 I commit_sys_config_file: [log-files,45
+73797]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5396:10-24 13:58:07.686  1169  2253 I am_proc_died: [0,30676,com.disney.tro
+z,0,2,666,5562]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5397:10-24 13:58:07.706  1169 31839 I sysui_multi_action: [757,316,758,4,75
+9,-1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5398:10-24 13:58:07.706  1169  1534 I am_proc_start: [0,31844,10338,com.dis
+ney.troz,top-activity,{com.disney.troz/com.disney.troz.TempleRunOzActivity}]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5399:10-24 13:58:07.720  1169  1169 I notification_enqueue: [10031,2139,com
+.android.systemui,2131233568,noti_DoNotDisturb,-1,Notification(channel=ZEN_ONGOING shortcut=null contentView=null vibra
+te=null sound=null defaults=0x0 flags=0x2 color=0x00000000 actions=1 vis=PUBLIC semFlags=0x0 semPriority=10 semMissedCo
+unt=0),0,NULL]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5400:10-24 13:58:07.734  1169  1169 I notification_enqueue: [10031,2139,com
+.android.systemui,2131233568,noti_DoNotDisturb,-1,Notification(channel=ZEN_ONGOING shortcut=null contentView=null vibra
+te=null sound=null defaults=0x0 flags=0x2 color=0x00000000 actions=1 vis=PUBLIC semFlags=0x0 semPriority=10 semMissedCo
+unt=0),0,NULL]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5401:10-24 13:58:07.739  1169  1169 I notification_enqueue: [10031,2139,com
+.android.systemui,2131233568,noti_DoNotDisturb,-1,Notification(channel=ZEN_ONGOING shortcut=null contentView=null vibra
+te=null sound=null defaults=0x0 flags=0x2 color=0x00000000 actions=1 vis=PUBLIC semFlags=0x0 semPriority=10 semMissedCo
+unt=0),0,NULL]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5402:10-24 13:58:07.750  1169  4957 I am_proc_bound: [0,31844,com.disney.tr
+oz]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5403:10-24 13:58:07.762  1169  4957 I wm_restart_activity: [0,90974973,23,c
+om.disney.troz/.TempleRunOzActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5404:10-24 13:58:07.762  1169  4957 I wm_set_resumed_activity: [0,com.disne
+y.troz/.TempleRunOzActivity,minimalResumeActivityLocked]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5405:10-24 13:58:07.768  1169  1169 I notification_enqueue: [10031,2139,com
+.android.systemui,2131233568,noti_DoNotDisturb,-1,Notification(channel=ZEN_ONGOING shortcut=null contentView=null vibra
+te=null sound=null defaults=0x0 flags=0x2 color=0x00000000 actions=1 vis=PUBLIC semFlags=0x0 semPriority=10 semMissedCo
+unt=0),0,NULL]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5406:10-24 13:58:07.834  1169  1855 I commit_sys_config_file: [settings-1-0
+,5]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5407:10-24 13:58:07.846  1169  1855 I commit_sys_config_file: [settings-2-0
+,5]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5408:10-24 13:58:07.849  1169  1855 I commit_sys_config_file: [settings-0-0
+,3]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5409:10-24 13:58:07.899  1169  1509 I commit_sys_config_file: [notification
+-policy,4577429]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5410:10-24 13:58:07.922  1169  1169 I sysui_multi_action: [757,1501,758,1,7
+93,224,794,0,795,224,796,2131233568,797,noti_DoNotDisturb,806,com.android.systemui,857,ZEN_ONGOING,858,3,947,0,1500,0]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5411:10-24 13:58:07.922  1169  1169 I sysui_multi_action: [757,804,799,note
+_interruptive,801,0,802,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5412:10-24 13:58:08.056  1176  1325 E RILD2   : UpdateVoiceRte: [CS] 1x reg
+ [0], gsm reg [2], wcdma reg [2], lte reg [1], hdr reg [0], Td reg [2], 5G reg [0]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5413:10-24 13:58:08.056  1176  1325 E RILD2   : UpdateVoiceRte: mVoiceRte(5
+), Confidence(1), mReportedLteSmsStatus(1)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5541:10-24 13:58:08.441  1169 31911 I am_kill : [0,31844,com.disney.troz,0,
+crash]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5542:10-24 13:58:08.444  2759  2759 I wm_on_restart_called: [1317994,com.se
+c.android.app.launcher.activities.LauncherActivity,performRestartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5543:10-24 13:58:08.444  2759  2759 I wm_on_start_called: [1317994,com.sec.
+android.app.launcher.activities.LauncherActivity,handleStartActivity]
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:5544:10-24 13:58:08.445  1169  1845 I dropbox_file_copy: [/data/tombstones/
+tombstone_00,65536,SYSTEM_TOMBSTONE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5545:10-24 13:58:08.448  2759  2759 I wm_on_resume_called: [1317994,com.sec
+.android.app.launcher.activities.LauncherActivity,RESUME_ACTIVITY]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5546:10-24 13:58:08.450  1169  1845 I commit_sys_config_file: [log-files,45
+74563]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5547:10-24 13:58:08.465  1169  1511 I input_focus: [Focus request 1ef55b3 c
+om.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity,reason=UpdateInputWindows]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5548:10-24 13:58:08.468  1169  1845 I commit_sys_config_file: [log-files,45
+74581]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5549:10-24 13:58:08.490  1169  1511 I wm_task_removed: [23,removeChild:remo
+veChild last r=ActivityRecord{56c2afd u0 com.disney.troz/.TempleRunOzActivity t-1 f}} in t=Task{d2fea43 #23 type=standa
+rd A=10338:com.disney.troz U=0 visible=false mode=fullscreen translucent=true sz=0},1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5550:10-24 13:58:08.490  1169  1511 I wm_task_removed: [23,removeTaskIfPoss
+ible,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5551:10-24 13:58:08.490  3201  3201 D ARGOS   : argos: argos_monitor: Mbps:
+16 prev_tput:0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5552:10-24 13:58:08.491  1169  1919 I input_focus: [Focus entering 1ef55b3
+com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity (server),reason=Window became foc
+usable. Previous reason: NO_WINDOW]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5553:10-24 13:58:08.500  1169  1511 I dvm_lock_sample: [system_server,1,and
+roid.anim,6,InputMonitor.java,157,void com.android.server.wm.InputMonitor$UpdateInputWindows.run(),,0,null,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5554:10-24 13:58:08.513  2759  2759 I wm_on_idle_called: {com.sec.android.a
+pp.launcher/com.sec.android.app.launcher.activities.LauncherActivity}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5555:10-24 13:58:08.514  1169  4958 I wm_idle_activity: [0,1317994,com.sec.
+android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5556:10-24 13:58:08.515  1169  4958 I power_partial_wake_state: [83,*launch
+*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5557:10-24 13:58:08.523  1169  1533 I am_uid_idle: 10047
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5558:10-24 13:58:08.532  2113  2435 D SubscriptionController: [getSubId]- n
+umSubIds == 0, return null slotIndex=0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5559:10-24 13:58:08.533  2113  2126 D SubscriptionController: [getSubId]- n
+umSubIds == 0, return null slotIndex=0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5560:10-24 13:58:08.533  2113  2126 D SubscriptionController: [getSubId]- n
+umSubIds == 0, return null slotIndex=0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5561:10-24 13:58:08.535  2113  2126 D SubscriptionController: [getSubId]- n
+umSubIds == 0, return null slotIndex=0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5562:10-24 13:58:08.551  1169  7340 I power_partial_wake_state: [1,*job*/co
+m.tencent.mobileqq/.msf.service.MSFAliveJobService:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5563:10-24 13:58:09.158  1169  1169 I notification_cancel_all: [1000,1169,c
+om.samsung.android.ruler,0,0,0,5,NULL]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5564:10-24 13:58:09.162  1169  1169 I notification_cancel_all: [1000,1169,c
+om.greenpoint.android.mc10086.activity,0,0,0,5,NULL]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5565:10-24 13:58:09.166  1169  1169 I notification_cancel_all: [1000,1169,c
+om.eg.android.AlipayGphone,0,0,0,5,NULL]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5566:10-24 13:58:09.168  1169 31910 I power_partial_wake_state: [741,*dexop
+t*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5567:10-24 13:58:09.169  1169  1169 I notification_cancel_all: [1000,1169,c
+om.google.earth,0,0,0,5,NULL]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5568:10-24 13:58:09.170  1169  1169 I notification_cancel_all: [1000,1169,c
+om.glosbe.dict,0,0,0,5,NULL]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5569:10-24 13:58:09.172  1169  1169 I notification_cancel_all: [1000,1169,c
+om.ct.client,0,0,0,5,NULL]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5728:10-24 13:58:21.586  1169 32003 I wm_task_to_front: [0,8]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5729:10-24 13:58:21.586  1169 32003 I wm_focused_root_task: [0,0,1,24,finis
+h-top adjustFocusToNextFocusableTask]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5730:10-24 13:58:21.586  1169 32003 I wm_set_resumed_activity: [0,com.sec.a
+ndroid.app.launcher/.activities.LauncherActivity,finish-top adjustFocusToNextFocusableTask]
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:5731:10-24 13:58:21.589  1169  1845 I dropbox_file_copy: [/data/tombstones/
+tombstone_01,65536,SYSTEM_TOMBSTONE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5732:10-24 13:58:21.590  1169  1845 I commit_sys_config_file: [log-files,45
+87703]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5733:10-24 13:58:21.603  1169 32003 I wm_pause_activity: [0,184642490,com.d
+isney.troz/.TempleRunOzActivity,userLeaving=false,finish]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5734:10-24 13:58:21.603  1169  1845 I commit_sys_config_file: [log-files,45
+87716]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5735:10-24 13:58:21.604  1169 32003 I power_partial_wake_state: [632,*launc
+h*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5736:10-24 13:58:21.605  1169 32003 I wm_set_resumed_activity: [0,com.sec.a
+ndroid.app.launcher/.activities.LauncherActivity,resumeTopActivityInnerLocked]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5737:10-24 13:58:21.607  1169 32003 I wm_resume_activity: [0,1317994,8,com.
+sec.android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5738:10-24 13:58:21.610  1169 32003 I sysui_multi_action: [757,316,758,4,75
+9,7]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5739:10-24 13:58:21.614  1169  1510 I sysui_multi_action: [757,1144,758,8,8
+06,com.disney.troz,871,com.disney.troz.TempleRunOzActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5740:10-24 13:58:21.622  1169  1511 I input_focus: [Focus request 1ef55b3 c
+om.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity,reason=UpdateInputWindows]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5741:10-24 13:58:21.633  1169 32003 I wm_destroy_activity: [0,184642490,24,
+com.disney.troz/.TempleRunOzActivity,finish-imm:handleAppCrashed]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5742:10-24 13:58:21.634  2759  2759 I wm_on_resume_called: [1317994,com.sec
+.android.app.launcher.activities.LauncherActivity,RESUME_ACTIVITY]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5743:10-24 13:58:21.637  1169 32003 I wm_task_removed: [24,removeChild:remo
+veChild last r=ActivityRecord{b016bba u0 com.disney.troz/.TempleRunOzActivity t-1 f}} in t=Task{3f3ea61 #24 type=standa
+rd A=10338:com.disney.troz U=0 visible=false mode=fullscreen translucent=true sz=0},1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5744:10-24 13:58:21.637  1169 32003 I wm_task_removed: [24,removeTaskIfPoss
+ible,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5745:10-24 13:58:21.643  1169  1916 I am_proc_died: [0,31947,com.disney.tro
+z,0,2,614,5568]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5746:10-24 13:58:21.654  2759  2759 I wm_on_idle_called: {com.sec.android.a
+pp.launcher/com.sec.android.app.launcher.activities.LauncherActivity}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5747:10-24 13:58:21.657  1169  2802 I wm_idle_activity: [0,1317994,com.sec.
+android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5748:10-24 13:58:21.658  1169  2802 I power_partial_wake_state: [54,*launch
+*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5749:10-24 13:58:21.663  1169  1919 I input_focus: [Focus entering 1ef55b3
+com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity (server),reason=Window became foc
+usable. Previous reason: NOT_VISIBLE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5750:10-24 13:58:21.679  1169  1933 I dvm_lock_sample: [system_server,0,FgC
+heckThread,46,ActivityManagerService.java,14654,android.content.Intent com.android.server.am.ActivityManagerService.reg
+isterReceiverWithFeature(android.app.IApplicationThread, java.lang.String, java.lang.String, java.lang.String, android.
+content.IIntentReceiver, android.content.IntentFilter, java.lang.String, int, int),,0,null,9]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5751:10-24 13:58:21.695  1169 32003 I dvm_lock_sample: [system_server,0,Nat
+iveCrashReport,54,AppErrors.java,786,void com.android.server.am.AppErrors.crashApplicationInner(com.android.server.am.P
+rocessRecord, android.app.ApplicationErrorReport$CrashInfo, int, int),,0,null,10]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5752:10-24 13:58:21.700  1169  1916 I sysui_multi_action: [757,803,799,dnd_
+rule_count,802,-1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5753:10-24 13:58:21.709  1169  1169 I sysui_multi_action: [757,803,799,dnd_
+mode_1,802,14036]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5754:10-24 13:58:21.709  1169  1169 I sysui_multi_action: [757,803,799,dnd_
+rule_count,802,0]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5755:10-24 13:58:21.709  1169  1169 I sysui_multi_action: [757,803,799,dnd_
+type_2,802,14036]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:5756:10-24 13:58:21.723  1169  4957 I sysui_multi_action: [757,803,799,dnd_
+rule_count,802,0]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10623:10-24 14:04:05.045  1169 32511 I wm_task_to_front: [0,8]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10624:10-24 14:04:05.045  1169 32511 I wm_focused_root_task: [0,0,1,25,fini
+sh-top adjustFocusToNextFocusableTask]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10625:10-24 14:04:05.046  1169 32511 I wm_set_resumed_activity: [0,com.sec.
+android.app.launcher/.activities.LauncherActivity,finish-top adjustFocusToNextFocusableTask]
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:10626:10-24 14:04:05.047  1169  1845 I dropbox_file_copy: [/data/tombstones
+/tombstone_02,65536,SYSTEM_TOMBSTONE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10627:10-24 14:04:05.050  1169  1845 I commit_sys_config_file: [log-files,4
+931163]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10628:10-24 14:04:05.050  1169  1855 I commit_sys_config_file: [settings-2-
+0,7]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10629:10-24 14:04:05.055  1169  1855 I commit_sys_config_file: [settings-0-
+0,5]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10630:10-24 14:04:05.059  1169 32511 I wm_pause_activity: [0,187737264,com.
+disney.troz/.TempleRunOzActivity,userLeaving=false,finish]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10631:10-24 14:04:05.061  1169 32511 I power_partial_wake_state: [737,*laun
+ch*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10632:10-24 14:04:05.062  1169  1845 I commit_sys_config_file: [log-files,4
+931175]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10633:10-24 14:04:05.062  1169 32511 I wm_set_resumed_activity: [0,com.sec.
+android.app.launcher/.activities.LauncherActivity,resumeTopActivityInnerLocked]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10634:10-24 14:04:05.065  1169 32511 I wm_resume_activity: [0,1317994,8,com
+.sec.android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10635:10-24 14:04:05.078  1169  1169 I sysui_multi_action: [757,1501,758,1,
+793,207,794,0,795,207,796,2131233568,797,noti_DoNotDisturb,806,com.android.systemui,857,ZEN_ONGOING,858,3,947,0,1500,0]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10636:10-24 14:04:05.078  1169  1169 I sysui_multi_action: [757,804,799,not
+e_interruptive,801,0,802,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10637:10-24 14:04:05.081  1169  2679 I am_proc_died: [0,32394,com.disney.tr
+oz,0,2,695,5578]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10638:10-24 14:04:05.082  1169 32511 I sysui_multi_action: [757,316,758,4,7
+59,-1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10639:10-24 14:04:05.085  2759  2759 I wm_on_restart_called: [1317994,com.s
+ec.android.app.launcher.activities.LauncherActivity,performRestartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10640:10-24 14:04:05.085  2759  2759 I wm_on_start_called: [1317994,com.sec
+.android.app.launcher.activities.LauncherActivity,handleStartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10641:10-24 14:04:05.085  1169  2679 I am_uid_stopped: 10338
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10642:10-24 14:04:05.089  2759  2759 I wm_on_resume_called: [1317994,com.se
+c.android.app.launcher.activities.LauncherActivity,RESUME_ACTIVITY]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10643:10-24 14:04:05.090  1169  1510 I sysui_multi_action: [757,1144,758,8,
+806,com.disney.troz,871,com.disney.troz.TempleRunOzActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10644:10-24 14:04:05.096  1169  1509 I commit_sys_config_file: [notificatio
+n-policy,4934626]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10645:10-24 14:04:05.102  1169  2679 I wm_task_removed: [25,removeChild:rem
+oveChild last r=ActivityRecord{b30a4b0 u0 com.disney.troz/.TempleRunOzActivity t-1 f}} in t=Task{54182ae #25 type=stand
+ard A=10338:com.disney.troz U=0 visible=false mode=fullscreen translucent=true sz=0},1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10646:10-24 14:04:05.102  1169  2679 I wm_task_removed: [25,removeTaskIfPos
+sible,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10647:10-24 14:04:05.122  1169  1511 I input_focus: [Focus request 1ef55b3
+com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity,reason=UpdateInputWindows]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10648:10-24 14:04:05.150  1169  1919 I input_focus: [Focus entering 1ef55b3
+ com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity (server),reason=Window became fo
+cusable. Previous reason: NOT_VISIBLE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10649:10-24 14:04:05.161  1169  1510 I dvm_lock_sample: [system_server,1,an
+droid.display,69,ActivityManagerService.java,18426,void com.android.server.am.ActivityManagerService$LocalService.updat
+eActivityUsageStatsWithIntent(android.content.ComponentName, int, int, android.os.IBinder, android.content.ComponentNam
+e, android.content.Intent),-,14296,void com.android.server.am.ActivityManagerService.serviceDoneExecuting(android.os.IB
+inder, int, int, int),13]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10650:10-24 14:04:05.174  2759  2759 I wm_on_idle_called: {com.sec.android.
+app.launcher/com.sec.android.app.launcher.activities.LauncherActivity}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:10651:10-24 14:04:05.175  1169  2257 I wm_idle_activity: [0,1317994,com.sec
+.android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11246:10-24 14:05:29.468  1169 32663 I wm_task_to_front: [0,8]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11247:10-24 14:05:29.468  1169 32663 I wm_focused_root_task: [0,0,1,26,fini
+sh-top adjustFocusToNextFocusableTask]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11248:10-24 14:05:29.469  1169 32663 I wm_set_resumed_activity: [0,com.sec.
+android.app.launcher/.activities.LauncherActivity,finish-top adjustFocusToNextFocusableTask]
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:11249:10-24 14:05:29.471  1169  1845 I dropbox_file_copy: [/data/tombstones
+/tombstone_03,65536,SYSTEM_TOMBSTONE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11250:10-24 14:05:29.473  1169  1845 I commit_sys_config_file: [log-files,5
+015586]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11251:10-24 14:05:29.485  1169  1845 I commit_sys_config_file: [log-files,5
+015598]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11252:10-24 14:05:29.487  1169 32663 I wm_pause_activity: [0,71737225,com.d
+isney.troz/.TempleRunOzActivity,userLeaving=false,finish]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11253:10-24 14:05:29.488  1169 32663 I power_partial_wake_state: [790,*laun
+ch*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11254:10-24 14:05:29.490  1169 32663 I wm_set_resumed_activity: [0,com.sec.
+android.app.launcher/.activities.LauncherActivity,resumeTopActivityInnerLocked]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11255:10-24 14:05:29.492  1169 32663 I wm_resume_activity: [0,1317994,8,com
+.sec.android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11256:10-24 14:05:29.496  1169 32663 I sysui_multi_action: [757,316,758,4,7
+59,7]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11257:10-24 14:05:29.499  1169  1510 I sysui_multi_action: [757,1144,758,8,
+806,com.disney.troz,871,com.disney.troz.TempleRunOzActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11258:10-24 14:05:29.500  1169 32663 I wm_destroy_activity: [0,71737225,26,
+com.disney.troz/.TempleRunOzActivity,finish-imm:handleAppCrashed]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11259:10-24 14:05:29.504  1169 32663 I wm_task_removed: [26,removeChild:rem
+oveChild last r=ActivityRecord{4469f89 u0 com.disney.troz/.TempleRunOzActivity t-1 f}} in t=Task{77defaf #26 type=stand
+ard A=10338:com.disney.troz U=0 visible=false mode=fullscreen translucent=true sz=0},1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11260:10-24 14:05:29.504  1169 32663 I wm_task_removed: [26,removeTaskIfPos
+sible,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11261:10-24 14:05:29.516  2759  2759 I wm_on_restart_called: [1317994,com.s
+ec.android.app.launcher.activities.LauncherActivity,performRestartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11262:10-24 14:05:29.516  2759  2759 I wm_on_start_called: [1317994,com.sec
+.android.app.launcher.activities.LauncherActivity,handleStartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11263:10-24 14:05:29.519  2759  2759 I wm_on_resume_called: [1317994,com.se
+c.android.app.launcher.activities.LauncherActivity,RESUME_ACTIVITY]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11264:10-24 14:05:29.536  1169  1511 I input_focus: [Focus request 1ef55b3
+com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity,reason=UpdateInputWindows]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11265:10-24 14:05:29.537  1169  2679 I am_proc_died: [0,32575,com.disney.tr
+oz,0,2,668,5583]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11266:10-24 14:05:29.537  1169  2679 I am_uid_stopped: 10338
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11267:10-24 14:05:29.564  1169  1919 I input_focus: [Focus entering 1ef55b3
+ com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity (server),reason=Window became fo
+cusable. Previous reason: NO_WINDOW]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11268:10-24 14:05:29.565  1169  2130 I dvm_lock_sample: [system_server,1,Bi
+nder:1169_5,47,ActivityManagerService.java,16079,int com.android.server.am.ActivityManagerService.broadcastIntentWithFe
+ature(android.app.IApplicationThread, java.lang.String, android.content.Intent, java.lang.String, android.content.IInte
+ntReceiver, int, java.lang.String, android.os.Bundle, java.lang.String[], java.lang.String[], int, android.os.Bundle, b
+oolean, boolean, int),,0,null,9]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11269:10-24 14:05:29.574  3201  3201 D ARGOS   : argos: argos_monitor: Mbps
+:10 prev_tput:0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11270:10-24 14:05:29.582  2759  2759 I wm_on_idle_called: {com.sec.android.
+app.launcher/com.sec.android.app.launcher.activities.LauncherActivity}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11271:10-24 14:05:29.585  1169  1987 I wm_idle_activity: [0,1317994,com.sec
+.android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11272:10-24 14:05:29.586  1169  1987 I power_partial_wake_state: [98,*launc
+h*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11273:10-24 14:05:29.594  1169  1534 I am_proc_start: [0,32672,1000,com.sam
+sung.android.dqagent,broadcast,{com.samsung.android.dqagent/com.samsung.android.dqagent.receiver.DQADataReceiver}]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:11274:10-24 14:05:29.597  1169  2681 I sysui_multi_action: [757,803,799,dnd
+_rule_count,802,-1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21378:10-24 14:23:17.046  1169  4910 I power_partial_wake_state: [767,*laun
+ch*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21379:10-24 14:23:17.047  1169  4910 I wm_set_resumed_activity: [0,com.sec.
+android.app.launcher/.activities.LauncherActivity,resumeTopActivityInnerLocked]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21380:10-24 14:23:17.052  1169  4910 I wm_resume_activity: [0,1317994,8,com
+.sec.android.app.launcher/.activities.LauncherActivity]
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:21381:10-24 14:23:17.054  1169  1845 I dropbox_file_copy: [/data/tombstones
+/tombstone_04,65536,SYSTEM_TOMBSTONE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21382:10-24 14:23:17.056  1169  1845 I commit_sys_config_file: [log-files,6
+083169]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21383:10-24 14:23:17.059  2759  2759 I wm_on_restart_called: [1317994,com.s
+ec.android.app.launcher.activities.LauncherActivity,performRestartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21384:10-24 14:23:17.059  2759  2759 I wm_on_start_called: [1317994,com.sec
+.android.app.launcher.activities.LauncherActivity,handleStartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21385:10-24 14:23:17.059  1169  1510 I sysui_multi_action: [757,1144,758,7,
+806,com.disney.troz,871,com.disney.troz.TempleRunOzActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21386:10-24 14:23:17.065  2759  2759 I wm_on_resume_called: [1317994,com.se
+c.android.app.launcher.activities.LauncherActivity,RESUME_ACTIVITY]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21387:10-24 14:23:17.071  1169  4910 I sysui_multi_action: [757,316,758,4,7
+59,-1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21388:10-24 14:23:17.076  1169  1511 I input_focus: [Focus request 1ef55b3
+com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity,reason=UpdateInputWindows]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21389:10-24 14:23:17.079  1169  1845 I commit_sys_config_file: [log-files,6
+083192]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21390:10-24 14:23:17.079  1169  2252 I am_proc_died: [0,4767,com.disney.tro
+z,0,2,957,5619]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21391:10-24 14:23:17.079  1169  2252 I am_uid_stopped: 10338
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21392:10-24 14:23:17.089  1169  2252 I wm_task_removed: [27,removeChild:rem
+oveChild last r=ActivityRecord{45a74f3 u0 com.disney.troz/.TempleRunOzActivity t-1 f}} in t=Task{f163c29 #27 type=stand
+ard A=10338:com.disney.troz U=0 visible=false mode=fullscreen translucent=true sz=0},1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21393:10-24 14:23:17.089  1169  2252 I wm_task_removed: [27,removeTaskIfPos
+sible,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21394:10-24 14:23:17.106  2759  2759 I wm_on_idle_called: {com.sec.android.
+app.launcher/com.sec.android.app.launcher.activities.LauncherActivity}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21395:10-24 14:23:17.116  1169  2253 I wm_idle_activity: [0,1317994,com.sec
+.android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21396:10-24 14:23:17.116  1169  2253 I power_partial_wake_state: [70,*launc
+h*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21397:10-24 14:23:17.121  1169  1919 I input_focus: [Focus entering 1ef55b3
+ com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity (server),reason=Window became fo
+cusable. Previous reason: NOT_VISIBLE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21398:10-24 14:23:17.258  1169  2183 I liblog  : 20
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21399:10-24 14:23:17.264  2584  2584 I service_manager_stats: [100,42,15078
+46]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21400:10-24 14:23:17.295  1169  1855 I commit_sys_config_file: [settings-1-
+0,5]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21401:10-24 14:23:17.308  1169  1855 I commit_sys_config_file: [settings-2-
+0,8]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21402:10-24 14:23:17.310  1169  1933 I dvm_lock_sample: [system_server,0,Fg
+CheckThread,230,ActivityManagerService.java,14065,android.content.ComponentName com.android.server.am.ActivityManagerSe
+rvice.startService(android.app.IApplicationThread, android.content.Intent, java.lang.String, boolean, java.lang.String,
+ java.lang.String, int),,0,null,46]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21403:10-24 14:23:17.311  1169  2679 I dvm_lock_sample: [system_server,1,Bi
+nder:1169_D,225,ActivityManagerService.java,6408,java.lang.String com.android.server.am.ActivityManagerService.getTagFo
+rIntentSender(android.content.IIntentSender, java.lang.String),,0,null,45]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21404:10-24 14:23:17.311  1169  8258 I dvm_lock_sample: [system_server,1,Bi
+nder:1169_20,203,ActivityManagerService.java,16079,int com.android.server.am.ActivityManagerService.broadcastIntentWith
+Feature(android.app.IApplicationThread, java.lang.String, android.content.Intent, java.lang.String, android.content.IIn
+tentReceiver, int, java.lang.String, android.os.Bundle, java.lang.String[], java.lang.String[], int, android.os.Bundle,
+ boolean, boolean, int),,0,null,40]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21405:10-24 14:23:17.312  1169  8258 I sysui_multi_action: [757,803,799,dnd
+_rule_count,802,-1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21406:10-24 14:23:17.313  1169  1169 I dvm_lock_sample: [system_server,1,ma
+in,178,ZenModeHelper.java,204,boolean com.android.server.notification.ZenModeHelper.shouldIntercept(com.android.server.
+notification.NotificationRecord),-,426,boolean com.android.server.notification.ZenModeHelper.removeAutomaticZenRule(jav
+a.lang.String, java.lang.String),35]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21581:10-24 14:23:19.299  1169  5118 I wm_task_to_front: [0,8]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21582:10-24 14:23:19.299  1169  5118 I wm_focused_root_task: [0,0,1,28,fini
+sh-top adjustFocusToNextFocusableTask]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21583:10-24 14:23:19.300  1169  5118 I wm_set_resumed_activity: [0,com.sec.
+android.app.launcher/.activities.LauncherActivity,finish-top adjustFocusToNextFocusableTask]
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:21584:10-24 14:23:19.300  1169  1845 I dropbox_file_copy: [/data/tombstones
+/tombstone_05,65536,SYSTEM_TOMBSTONE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21585:10-24 14:23:19.305  1169  1845 I commit_sys_config_file: [log-files,6
+085418]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21586:10-24 14:23:19.312  1169  5118 I wm_pause_activity: [0,264860838,com.
+disney.troz/.TempleRunOzActivity,userLeaving=false,finish]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21587:10-24 14:23:19.313  1169  5118 I power_partial_wake_state: [799,*laun
+ch*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21588:10-24 14:23:19.315  1169  5118 I wm_set_resumed_activity: [0,com.sec.
+android.app.launcher/.activities.LauncherActivity,resumeTopActivityInnerLocked]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21589:10-24 14:23:19.317  1169  5118 I wm_resume_activity: [0,1317994,8,com
+.sec.android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21590:10-24 14:23:19.323  1169  1510 I sysui_multi_action: [757,1144,758,7,
+806,com.disney.troz,871,com.disney.troz.TempleRunOzActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21591:10-24 14:23:19.326  1169  1845 I commit_sys_config_file: [log-files,6
+085439]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21592:10-24 14:23:19.326  1169  5118 I sysui_multi_action: [757,316,758,4,7
+59,7]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21593:10-24 14:23:19.328  2759  2759 I wm_on_restart_called: [1317994,com.s
+ec.android.app.launcher.activities.LauncherActivity,performRestartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21594:10-24 14:23:19.329  2759  2759 I wm_on_start_called: [1317994,com.sec
+.android.app.launcher.activities.LauncherActivity,handleStartActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21595:10-24 14:23:19.330  1169  5118 I wm_destroy_activity: [0,264860838,28
+,com.disney.troz/.TempleRunOzActivity,finish-imm:handleAppCrashed]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21596:10-24 14:23:19.331  2759  2759 I wm_on_resume_called: [1317994,com.se
+c.android.app.launcher.activities.LauncherActivity,RESUME_ACTIVITY]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21597:10-24 14:23:19.347  1169  1511 I input_focus: [Focus request 1ef55b3
+com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity,reason=UpdateInputWindows]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21598:10-24 14:23:19.352  1169  2661 I dvm_lock_sample: [system_server,1,Bi
+nder:1169_C,43,ActivityManagerService.java,1697,void com.android.server.am.ActivityManagerService$AppDeathRecipient.bin
+derDied(),,0,null,8]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21599:10-24 14:23:19.353  1169  2661 I am_proc_died: [0,4989,com.disney.tro
+z,0,2,953,5634]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21600:10-24 14:23:19.353  1169  2661 I am_uid_stopped: 10338
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21601:10-24 14:23:19.360  3201  3201 D ARGOS   : argos: argos_monitor: Mbps
+:45 prev_tput:108
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21602:10-24 14:23:19.368  1169  1511 I wm_task_removed: [28,removeChild:rem
+oveChild last r=ActivityRecord{fc974a6 u0 com.disney.troz/.TempleRunOzActivity t-1 f}} in t=Task{ab4ca94 #28 type=stand
+ard A=10338:com.disney.troz U=0 visible=false mode=fullscreen translucent=true sz=0},1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21603:10-24 14:23:19.368  1169  1511 I wm_task_removed: [28,removeTaskIfPos
+sible,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21604:10-24 14:23:19.372  1169  1919 I input_focus: [Focus entering 1ef55b3
+ com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity (server),reason=Window became fo
+cusable. Previous reason: NO_WINDOW]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21605:10-24 14:23:19.390  2759  2759 I wm_on_idle_called: {com.sec.android.
+app.launcher/com.sec.android.app.launcher.activities.LauncherActivity}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21606:10-24 14:23:19.390  1169  2661 I wm_idle_activity: [0,1317994,com.sec
+.android.app.launcher/.activities.LauncherActivity]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21607:10-24 14:23:19.391  1169  2661 I power_partial_wake_state: [78,*launc
+h*:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21608:10-24 14:23:19.394  1169  4960 I dvm_lock_sample: [system_server,1,Bi
+nder:1169_1B,41,ActivityManagerService.java,14270,void com.android.server.am.ActivityManagerService.publishService(andr
+oid.os.IBinder, android.content.Intent, android.os.IBinder),,0,null,8]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:21609:10-24 14:23:19.399  1169  2174 I power_partial_wake_state: [3,*job*/c
+om.samsung.android.app.sreminder/.cardproviders.common.CardActionService:android]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24625:10-24 14:25:31.226  1169  1612 I ActivityManager: Force stopping com.
+android.chrome appid=10340 user=150: MARs #9
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24626:10-24 14:25:31.229  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{72b0746 u150 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24627:10-24 14:25:31.237  5303  5303 D proxy   : Added shared lib /assets/l
+ibs/armeabi-vfp/libmono.so 0xd6761f4c
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:24628:10-24 14:25:31.238  5303  5303 D proxy   : No JNI_OnLoad found in /as
+sets/libs/armeabi-vfp/libmono.so 0xd6761f4c
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24629:10-24 14:25:31.238  1169  1169 I sysui_multi_action: [757,1501,758,1,
+793,209,794,0,795,209,796,2131233568,797,noti_DoNotDisturb,806,com.android.systemui,857,ZEN_ONGOING,858,3,947,0,1500,0]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24630:10-24 14:25:31.238  1169  1169 I sysui_multi_action: [757,804,799,not
+e_interruptive,801,0,802,1]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24631:10-24 14:25:31.238  5303  5303 W linker  : Warning: "/data/app/~~oCj_
+MSRX_Vef9Js_Jt-CRQ==/com.disney.troz-82iw_XL2zo_MDXxcTbhvLg==/lib/arm/libunity.so" has text relocations and will not wo
+rk when the app moves to API level 23 or later (https://android.googlesource.com/platform/bionic/+/master/android-chang
+es-for-ndk-developers.md#Text-Relocations-Enforced-for-API-level-23) (allowing for now because this app's target API le
+vel is still 10)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24632:10-24 14:25:31.239  1169  1612 I ActivityManager: Force stopping com.
+android.chrome appid=10340 user=0: MARs #9
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24633:10-24 14:25:31.240  1169  1169 W NotificationHistory: Attempted to ad
+d notif for locked/gone/disabled user 0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24634:10-24 14:25:31.242  2759  2759 I Launcher.NotificationListener: onNot
+ificationPosted : com.android.systemui number : 0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24635:10-24 14:25:31.242  5243  5243 I [AirCmd]_MediaControlStateMonitor: o
+nPosted : notificationPkgName = com.android.systemui
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24636:10-24 14:25:31.243  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{ef5b45d u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24637:10-24 14:25:31.243  1169  1612 D ActivityManager: Ordered Broadcast i
+s delayed BroadcastRecord{88051d2 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24638:10-24 14:25:31.243  1169  1612 I ActivityManager: Force stopping com.
+supalink.app appid=10429 user=0: MARs #9
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24639:10-24 14:25:31.243 12079 12079 I Edge.badge: updateBadge item = com.a
+ndroid.systemui:-1 1
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24640:10-24 14:25:31.246  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{1fd02a3 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24641:10-24 14:25:31.246  1169  1612 D ActivityManager: Ordered Broadcast i
+s delayed BroadcastRecord{c99f9a0 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24642:10-24 14:25:31.246  1169  1612 I ActivityManager: Force stopping com.
+aliwonfun.aliime appid=10406 user=0: MARs #9
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24643:10-24 14:25:31.246  2139  2139 D InterruptionStateProvider: No alerti
+ng: filtered notification: -1|com.android.systemui|2131233568|noti_DoNotDisturb|10031
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24644:10-24 14:25:31.247  2139  2139 D InterruptionStateProvider: No alerti
+ng: filtered notification: -1|com.android.systemui|2131233568|noti_DoNotDisturb|10031
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24645:10-24 14:25:31.247  2139  2344 D PeopleSpaceWidgetMgr: Sbn doesn't co
+ntain valid PeopleTileKey: null/-1/com.android.systemui
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24646:10-24 14:25:31.249  2139  2213 D SecNotificationBlockManager: checkCo
+nfigCSC :com.android.systemui
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24647:10-24 14:25:31.250  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{66db91e u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24648:10-24 14:25:31.250  1169  1612 D ActivityManager: Ordered Broadcast i
+s delayed BroadcastRecord{65325ff u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24649:10-24 14:25:31.250  1169  1612 I ActivityManager: Force stopping com.
+able.wisdomtree appid=10426 user=0: MARs #9
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24650:10-24 14:25:31.254  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{9350fcc u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24651:10-24 14:25:31.254  1169  1612 D ActivityManager: Ordered Broadcast i
+s delayed BroadcastRecord{a301215 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24652:10-24 14:25:31.254  1169  1612 I ActivityManager: Force stopping com.
+google.android.apps.bard appid=10293 user=0: MARs #9
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24653:10-24 14:25:31.257  1169  1509 D SettingsProvider: isChangeAllowed()
+: name = enabled_notification_listeners
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24838:10-24 14:25:31.389  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{de5688c u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24839:10-24 14:25:31.389  1169  1612 D ActivityManager: Ordered Broadcast i
+s delayed BroadcastRecord{8d05bd5 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24840:10-24 14:25:31.389  1169  1612 I ActivityManager: Force stopping com.
+xunlei.downloadprovider appid=10344 user=0: MARs #9
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:24841:10-24 14:25:31.393  5444  5444 I crash_dump32: obtaining output fd fr
+om tombstoned, type: kDebuggerdTombstoneProto
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24842:10-24 14:25:31.393  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{8702fea u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24843:10-24 14:25:31.393  1169  1612 D ActivityManager: Ordered Broadcast i
+s delayed BroadcastRecord{f59e2db u0 android.intent.action.PACKAGE_RESTARTED}
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:24844:10-24 14:25:31.393   735   735 I tombstoned: received crash request f
+or pid 5303
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24845:10-24 14:25:31.394  5444  5444 I crash_dump32: performing dump of pro
+cess 5303 (target tid = 5303)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24846:10-24 14:25:31.399  1169  1612 I ActivityManager: Force stopping com.
+huawei.smarthome appid=10419 user=0: MARs #9
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24847:10-24 14:25:31.399  2139  2139 D QS      : setQSExpansion 0.0 -152.59
+999
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24848:10-24 14:25:31.399  2139  2139 D QS      : setQSExpansion 0.0 -152.59
+999
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24849:10-24 14:25:31.402  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{cc68178 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24850:10-24 14:25:31.402  1169  1612 D ActivityManager: Ordered Broadcast i
+s delayed BroadcastRecord{6c7e051 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24851:10-24 14:25:31.402  1169  1612 I ActivityManager: Force stopping com.
+xingin.xhs appid=10368 user=0: MARs #9
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24852:10-24 14:25:31.406  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{91960b6 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24853:10-24 14:25:31.406  1169  1612 D ActivityManager: Ordered Broadcast i
+s delayed BroadcastRecord{e09d1b7 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24854:10-24 14:25:31.406  1169  1612 I ActivityManager: Force stopping com.
+aliwonfun.preyiime appid=10395 user=0: MARs #9
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24855:10-24 14:25:31.409  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{29e3d24 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24856:10-24 14:25:31.409  1169  1612 D ActivityManager: Ordered Broadcast i
+s delayed BroadcastRecord{1d9308d u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24857:10-24 14:25:31.409  1169  1612 I ActivityManager: Force stopping app.
+getlux.com.sakuracat.app appid=10441 user=0: MARs #9
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24858:10-24 14:25:31.411  2139  2139 W Looper  : Slow dispatch took 12ms ma
+in h=android.view.ChoreographerFrameHandlerc=android.view.ChoreographerFrameDisplayEventReceiver@370b1d5 m=0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24859:10-24 14:25:31.411  2139  2139 W Looper  : Slow delivery took 24ms ma
+in h=com.android.systemui.statusbar.notification.row.NotifBindPipeline$NotifBindPipelineHandler c=null m=1
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24860:10-24 14:25:31.411  2139  2139 W Looper  : Drained
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24861:10-24 14:25:31.413  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{52d242 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24862:10-24 14:25:31.413  1169  1612 D ActivityManager: Ordered Broadcast i
+s delayed BroadcastRecord{5fd253 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24863:10-24 14:25:31.421  1169  3112 W NetlinkSocket: maximum read
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24864:10-24 14:25:31.423  1169  1612 I ActivityManager: Force stopping com.
+MobileTicket appid=10345 user=0: MARs #9
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24865:10-24 14:25:31.427  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{e354889 u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24866:10-24 14:25:31.427  1169  1612 D ActivityManager: Ordered Broadcast i
+s delayed BroadcastRecord{bbfd08e u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24867:10-24 14:25:31.427  1169  1612 I ActivityManager: Force stopping com.
+sec.android.app.voicenote appid=10333 user=0: MARs #9
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24868:10-24 14:25:31.430  1169  1612 D ActivityManager: Parallel Broadcast
+is delayed BroadcastRecord{e0b40af u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24869:10-24 14:25:31.430  1169  1612 D ActivityManager: Ordered Broadcast i
+s delayed BroadcastRecord{eda0cbc u0 android.intent.action.PACKAGE_RESTARTED}
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24966:10-24 14:25:31.682  5444  5444 F DEBUG   : Timestamp: 2026-10-24 14:2
+5:31.405667160+0800
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24967:10-24 14:25:31.682  5444  5444 F DEBUG   : Process uptime: 2s
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24968:10-24 14:25:31.682  5444  5444 F DEBUG   : Cmdline: com.disney.troz
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:24969:10-24 14:25:31.682  5444  5444 F DEBUG   : pid: 5303, tid: 5303, name
+: com.disney.troz  >>> com.disney.troz <<<
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24970:10-24 14:25:31.682  5444  5444 F DEBUG   : uid: 10338
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24971:10-24 14:25:31.682  5444  5444 F DEBUG   : signal 11 (SIGSEGV), code
+1 (SEGV_MAPERR), fault addr 0xe6400004
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24972:10-24 14:25:31.682  5444  5444 F DEBUG   :     r0  e93b4d89  r1  bbc3
+be78  r2  e63c5a7c  r3  0000000c
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24973:10-24 14:25:31.682  5444  5444 F DEBUG   :     r4  e63ffffc  r5  e63c
+571c  r6  e93b4d89  r7  00000000
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24974:10-24 14:25:31.682  5444  5444 F DEBUG   :     r8  bbc3be78  r9  e63c
+5a7c  r10 e93b4d89  r11 e63c571c
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24975:10-24 14:25:31.682  5444  5444 F DEBUG   :     ip  bbcc9190  sp  ffd6
+98e8  lr  bb79b274  pc  bb79b264
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:24976:10-24 14:25:31.682  5444  5444 F DEBUG   : backtrace:
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:24977:10-24 14:25:31.682  5444  5444 F DEBUG   :       #00 pc 00199264  <an
+onymous:bb602000>
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:24978:10-24 14:25:31.682  5444  5444 F DEBUG   :       #01 pc 0019be44  <an
+onymous:bb602000>
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24979:10-24 14:25:31.682  5444  5444 F DEBUG   :       #02 pc 00296598  <an
+onymous:bb602000>
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24980:10-24 14:25:31.682  5444  5444 F DEBUG   :       #03 pc 000b1580  <an
+onymous:bb602000>
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24981:10-24 14:25:31.682  5444  5444 F DEBUG   :       #04 pc 00001bc8  /da
+ta/app/~~oCj_MSRX_Vef9Js_Jt-CRQ==/com.disney.troz-82iw_XL2zo_MDXxcTbhvLg==/lib/arm/libunity.so
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24982:10-24 14:25:31.682  5444  5444 F DEBUG   :       #05 pc 00003d48  /da
+ta/app/~~oCj_MSRX_Vef9Js_Jt-CRQ==/com.disney.troz-82iw_XL2zo_MDXxcTbhvLg==/lib/arm/libunity.so
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24983:10-24 14:25:31.682  5444  5444 F DEBUG   :       #06 pc 00003020  /da
+ta/app/~~oCj_MSRX_Vef9Js_Jt-CRQ==/com.disney.troz-82iw_XL2zo_MDXxcTbhvLg==/lib/arm/libunity.so
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24984:10-24 14:25:31.682  5444  5444 F DEBUG   :       #07 pc 00001980  /da
+ta/app/~~oCj_MSRX_Vef9Js_Jt-CRQ==/com.disney.troz-82iw_XL2zo_MDXxcTbhvLg==/lib/arm/libunity.so
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24985:10-24 14:25:31.682  5444  5444 F DEBUG   :       #08 pc 000052cc  /da
+ta/app/~~oCj_MSRX_Vef9Js_Jt-CRQ==/com.disney.troz-82iw_XL2zo_MDXxcTbhvLg==/lib/arm/libunity.so
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24986:10-24 14:25:31.683  5444  5444 F DEBUG   :       #09 pc 00005408  /da
+ta/app/~~oCj_MSRX_Vef9Js_Jt-CRQ==/com.disney.troz-82iw_XL2zo_MDXxcTbhvLg==/lib/arm/libunity.so
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:24987:10-24 14:25:31.683  5444  5444 F DEBUG   :       #10 pc 00004e5c  /da
+ta/app/~~oCj_MSRX_Vef9Js_Jt-CRQ==/com.disney.troz-82iw_XL2zo_MDXxcTbhvLg==/lib/arm/libunity.so (JNI_OnLoad+88)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24988:10-24 14:25:31.683  5444  5444 F DEBUG   :       #11 pc 002a1c4f  /ap
+ex/com.android.art/lib/libart.so (art::JavaVMExt::LoadNativeLibrary(_JNIEnv*, std::__1::basic_string<char, std::__1::ch
+ar_traits<char>, std::__1::allocator<char> > const&, _jobject*, _jclass*, std::__1::basic_string<char, std::__1::char_t
+raits<char>, std::__1::allocator<char> >*)+2450) (BuildId: 1047fe10aea4db6bad391e9c715df5ae)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24989:10-24 14:25:31.683  5444  5444 F DEBUG   :       #12 pc 00004083  /ap
+ex/com.android.art/lib/libopenjdkjvm.so (JVM_NativeLoad+238) (BuildId: 5b1fe9d11eb5da05f124fdf0b0bcd85f)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24990:10-24 14:25:31.683  5444  5444 F DEBUG   :       #13 pc 000a6437  /ap
+ex/com.android.art/javalib/arm/boot.oat (art_jni_trampoline+86) (BuildId: 6a872ccd9475eaef11f092a63793b51b2f5377b1)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24991:10-24 14:25:31.683  5444  5444 F DEBUG   :       #14 pc 000b5963  /ap
+ex/com.android.art/javalib/arm/boot.oat (java.lang.Runtime.loadLibrary0+274) (BuildId: 6a872ccd9475eaef11f092a63793b51b
+2f5377b1)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24992:10-24 14:25:31.683  5444  5444 F DEBUG   :       #15 pc 000b6edd  /ap
+ex/com.android.art/javalib/arm/boot.oat (java.lang.Runtime.loadLibrary0+140) (BuildId: 6a872ccd9475eaef11f092a63793b51b
+2f5377b1)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24993:10-24 14:25:31.683  5444  5444 F DEBUG   :       #16 pc 000b9aaf  /ap
+ex/com.android.art/javalib/arm/boot.oat (java.lang.System.loadLibrary+86) (BuildId: 6a872ccd9475eaef11f092a63793b51b2f5
+377b1)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24994:10-24 14:25:31.683  5444  5444 F DEBUG   :       #17 pc 000eb55c  /ap
+ex/com.android.art/lib/libart.so (nterp_helper+172) (BuildId: 1047fe10aea4db6bad391e9c715df5ae)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24995:10-24 14:25:31.683  5444  5444 F DEBUG   :       #18 pc 00267b1c  /da
+ta/app/~~oCj_MSRX_Vef9Js_Jt-CRQ==/com.disney.troz-82iw_XL2zo_MDXxcTbhvLg==/oat/arm/base.vdex (com.unity3d.player.UnityP
+layer.<init>+586)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24996:10-24 14:25:31.683  5444  5444 F DEBUG   :       #19 pc 000ebfa0  /ap
+ex/com.android.art/lib/libart.so (nterp_helper+2800) (BuildId: 1047fe10aea4db6bad391e9c715df5ae)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24997:10-24 14:25:31.683  5444  5444 F DEBUG   :       #20 pc 001b0e6c  /da
+ta/app/~~oCj_MSRX_Vef9Js_Jt-CRQ==/com.disney.troz-82iw_XL2zo_MDXxcTbhvLg==/oat/arm/base.vdex (com.unity3d.player.UnityP
+layerActivity.onCreate+34)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24998:10-24 14:25:31.683  5444  5444 F DEBUG   :       #21 pc 000ebfa0  /ap
+ex/com.android.art/lib/libart.so (nterp_helper+2800) (BuildId: 1047fe10aea4db6bad391e9c715df5ae)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:24999:10-24 14:25:31.683  5444  5444 F DEBUG   :       #22 pc 0025b894  /da
+ta/app/~~oCj_MSRX_Vef9Js_Jt-CRQ==/com.disney.troz-82iw_XL2zo_MDXxcTbhvLg==/oat/arm/base.vdex (com.disney.troz.TempleRun
+OzActivity.onCreate+4)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25000:10-24 14:25:31.683  5444  5444 F DEBUG   :       #23 pc 0060505f  /sy
+stem/framework/arm/boot-framework.oat (android.app.Activity.performCreate+590) (BuildId: 184c4d4102fd8cfc31663f5f2c5e4e
+4fa9d01bec)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25001:10-24 14:25:31.683  5444  5444 F DEBUG   :       #24 pc 00604dfd  /sy
+stem/framework/arm/boot-framework.oat (android.app.Activity.performCreate+44) (BuildId: 184c4d4102fd8cfc31663f5f2c5e4e4
+fa9d01bec)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25002:10-24 14:25:31.683  5444  5444 F DEBUG   :       #25 pc 00467871  /sy
+stem/framework/arm/boot-framework.oat (android.app.ActivityThread.performLaunchActivity+4352) (BuildId: 184c4d4102fd8cf
+c31663f5f2c5e4e4fa9d01bec)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25003:10-24 14:25:31.683  5444  5444 F DEBUG   :       #26 pc 0046df21  /sy
+stem/framework/arm/boot-framework.oat (android.app.ActivityThread.handleLaunchActivity+512) (BuildId: 184c4d4102fd8cfc3
+1663f5f2c5e4e4fa9d01bec)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25004:10-24 14:25:31.683  5444  5444 F DEBUG   :       #27 pc 00610b65  /sy
+stem/framework/arm/boot-framework.oat (android.app.servertransaction.LaunchActivityItem.execute+108) (BuildId: 184c4d41
+02fd8cfc31663f5f2c5e4e4fa9d01bec)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25005:10-24 14:25:31.683  5444  5444 F DEBUG   :       #28 pc 003a010f  /sy
+stem/framework/arm/boot-framework.oat (android.app.servertransaction.TransactionExecutor.executeCallbacks+1734) (BuildI
+d: 184c4d4102fd8cfc31663f5f2c5e4e4fa9d01bec)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25006:10-24 14:25:31.683  5444  5444 F DEBUG   :       #29 pc 0039f9c3  /sy
+stem/framework/arm/boot-framework.oat (android.app.servertransaction.TransactionExecutor.execute+818) (BuildId: 184c4d4
+102fd8cfc31663f5f2c5e4e4fa9d01bec)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25007:10-24 14:25:31.683  5444  5444 F DEBUG   :       #30 pc 004539a9  /sy
+stem/framework/arm/boot-framework.oat (android.app.ActivityThread$H.handleMessage+1624) (BuildId: 184c4d4102fd8cfc31663
+f5f2c5e4e4fa9d01bec)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25008:10-24 14:25:31.683  5444  5444 F DEBUG   :       #31 pc 00671741  /sy
+stem/framework/arm/boot-framework.oat (android.os.Handler.dispatchMessage+152) (BuildId: 184c4d4102fd8cfc31663f5f2c5e4e
+4fa9d01bec)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25009:10-24 14:25:31.683  5444  5444 F DEBUG   :       #32 pc 00673efb  /sy
+stem/framework/arm/boot-framework.oat (android.os.Looper.loopOnce+906) (BuildId: 184c4d4102fd8cfc31663f5f2c5e4e4fa9d01b
+ec)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25010:10-24 14:25:31.683  5444  5444 F DEBUG   :       #33 pc 00673af7  /sy
+stem/framework/arm/boot-framework.oat (android.os.Looper.loop+454) (BuildId: 184c4d4102fd8cfc31663f5f2c5e4e4fa9d01bec)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25011:10-24 14:25:31.683  5444  5444 F DEBUG   :       #34 pc 00465f1b  /sy
+stem/framework/arm/boot-framework.oat (android.app.ActivityThread.main+810) (BuildId: 184c4d4102fd8cfc31663f5f2c5e4e4fa
+9d01bec)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25012:10-24 14:25:31.683  5444  5444 F DEBUG   :       #35 pc 000f03d5  /ap
+ex/com.android.art/lib/libart.so (art_quick_invoke_stub_internal+68) (BuildId: 1047fe10aea4db6bad391e9c715df5ae)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25032:10-24 14:25:31.702  1169  5457 W ActivityManager: crash : com.disney.
+troz,10338
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25033:10-24 14:25:31.702  1169  5457 W ContextImpl: Calling a method in the
+ system process without a qualified user: android.app.ContextImpl.sendBroadcast:1242 com.android.server.am.AppErrors.cr
+ashApplicationInner:723 com.android.server.am.AppErrors.crashApplication:584 com.android.server.am.ActivityManagerServi
+ce.handleApplicationCrashInner:9723 com.android.server.am.NativeCrashListener$NativeCrashReporter.run:119
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25034:10-24 14:25:31.703  1169  5457 W ActivityTaskManager:   Force finishi
+ng activity com.disney.troz/.TempleRunOzActivity
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:25035:10-24 14:25:31.703   735   735 E tombstoned: Tombstone written to: to
+mbstone_06
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25036:10-24 14:25:31.703  1169  5457 W WindowManager: Prepare app transitio
+n: mNextAppTransitionRequests=[TRANSIT_CLOSE], mNextAppTransitionFlags=TRANSIT_FLAG_APP_CRASHED, displayId: 0 Callers=c
+om.android.server.wm.DisplayContent.prepareAppTransition:6358 com.android.server.wm.Task.finishTopCrashedActivityLocked
+:8838 com.android.server.wm.RootWindowContainer.lambdafinishTopCrashedActivities20:2775 com.android.server.wm.RootWin
+dowContainer$$ExternalSyntheticLambda30.accept:10 com.android.server.wm.Task.forAllTasks:5158
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25037:10-24 14:25:31.703  1169  5457 W WindowManager: Prepare app transitio
+n: mNextAppTransitionRequests=[TRANSIT_CLOSE, TRANSIT_CLOSE], mNextAppTransitionFlags=TRANSIT_FLAG_APP_CRASHED, display
+Id: 0 Callers=com.android.server.wm.DisplayContent.prepareAppTransition:6358 com.android.server.wm.DisplayContent.reque
+stTransitionAndLegacyPrepare:6373 com.android.server.wm.Task.finishTopCrashedActivityLocked:8839 com.android.server.wm.
+RootWindowContainer.lambdafinishTopCrashedActivities20:2775 com.android.server.wm.RootWindowContainer$$ExternalSynthe
+ticLambda30.accept:10
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25038:10-24 14:25:31.704  1169  5457 I wm_finish_activity: [0,52125446,29,c
+om.disney.troz/.TempleRunOzActivity,force-crash]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25039:10-24 14:25:31.704  1169  5457 I wm_task_moved: [1,1,6]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25040:10-24 14:25:31.704  1169  5457 I wm_task_moved: [8,1,2147483647]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25041:10-24 14:25:31.704  1169  5457 I wm_task_to_front: [0,8]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25042:10-24 14:25:31.704  1169  5457 I wm_focused_root_task: [0,0,1,29,fini
+sh-top adjustFocusToNextFocusableTask]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25043:10-24 14:25:31.704  1169  5457 D InputDispatcher: Focused application
+ set to (0): 141c6a
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25044:10-24 14:25:31.705  1169  5457 D SGM:GameManager: TaskStackListener.o
+nTaskFocusChanged(), taskId=29, focused=false
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25045:10-24 14:25:31.705  1169  5457 D SGM:GameManager: TaskStackListener.o
+nTaskFocusChanged(), taskId=8, focused=true
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25046:10-24 14:25:31.705  1169  5457 D SGM:GameManager:   sendRunningCompon
+entFocus(), pkgName: com.sec.android.app.launcher, userId: 0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25047:10-24 14:25:31.705  1169  1933 D SGM:GameManager: onLooperPrepared(),
+ msg: MSG_TASK_FOCUSED, pkgName: com.sec.android.app.launcher, userId: 0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25048:10-24 14:25:31.705  1169  1933 D SGM:GameManager: handleTaskFocused()
+.
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25049:10-24 14:25:31.705  1169  1933 D SGM:GameManager: sendFocusOutConditi
+onally() - mPrevNotiPkg: com.disney.troz, userId: 0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25050:10-24 14:25:31.705  1169  1933 D SGM:GameManager:   sendFocusOutCondi
+tionally(). pause signal is needed for com.disney.troz
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25051:10-24 14:25:31.705  1169  1933 D SGM:GameManager: notifyFocusInOut().
+ of pkg: com.disney.troz, type: 1, isMinimized: false, isTunableApp: false, userId: 0
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25052:10-24 14:25:31.705  1169  1933 D SGM:GameManager:   notifyFocusInOut(
+). before send intent to GameBooster. type:1, pkgName:com.disney.troz, minimized:false
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25053:10-24 14:25:31.705  1169  5457 I wm_set_resumed_activity: [0,com.sec.
+android.app.launcher/.activities.LauncherActivity,finish-top adjustFocusToNextFocusableTask]
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:25054:10-24 14:25:31.705  1169  1845 I BootReceiver: Copying /data/tombston
+es/tombstone_06 to DropBox (SYSTEM_TOMBSTONE)
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:25055:10-24 14:25:31.705  1169  1845 I DropBoxManagerService: add tag=SYSTE
+M_TOMBSTONE isTagEnabled=true flags=0x6
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25056:10-24 14:25:31.706  1169  5457 W WindowManager: Prepare app transitio
+n: mNextAppTransitionRequests=[TRANSIT_CLOSE, TRANSIT_CLOSE, TRANSIT_CLOSE], mNextAppTransitionFlags=TRANSIT_FLAG_APP_C
+RASHED, displayId: 0 Callers=com.android.server.wm.DisplayContent.prepareAppTransition:6358 com.android.server.wm.Displ
+ayContent.prepareAppTransition:6353 com.android.server.wm.ActivityRecord.finishIfPossible:3619 com.android.server.wm.Ac
+tivityRecord.finishIfPossible:3425 com.android.server.wm.Task.finishTopCrashedActivityLocked:8840
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:25057:10-24 14:25:31.708  1169  1845 I dropbox_file_copy: [/data/tombstones
+/tombstone_06,65536,SYSTEM_TOMBSTONE]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25058:10-24 14:25:31.709  1169  1845 I commit_sys_config_file: [log-files,6
+217822]
+> C:\Users\Okali\Desktop\Oz\logcat-full.txt:25059:10-24 14:25:31.711  1169  1845 I DropBoxManagerService: add tag=SYSTE
+M_TOMBSTONE_PROTO isTagEnabled=true flags=0x4
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25060:10-24 14:25:31.716   962   962 I Layer   : id=2476 Destroyed Screensh
+ot Parent
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25061:10-24 14:25:31.717   781   781 I Zygote  : Process 5303 exited due to
+ signal 11 (Segmentation fault)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25062:10-24 14:25:31.722  1169  1845 I commit_sys_config_file: [log-files,6
+217835]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25063:10-24 14:25:31.724  1169  5457 I wm_pause_activity: [0,52125446,com.d
+isney.troz/.TempleRunOzActivity,userLeaving=false,finish]
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25064:10-24 14:25:31.724  1169  5457 W ActivityTaskManager: Exception throw
+n during pause
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25065:10-24 14:25:31.724  1169  5457 W ActivityTaskManager: android.os.Dead
+ObjectException
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25066:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at android.os.
+BinderProxy.transactNative(Native Method)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25067:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at android.os.
+BinderProxy.transact(BinderProxy.java:635)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25068:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at android.app
+.IApplicationThreadStubProxy.scheduleTransaction(IApplicationThread.java:2877)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25069:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at android.app
+.servertransaction.ClientTransaction.schedule(ClientTransaction.java:136)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25070:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.ClientLifecycleManager.scheduleTransaction(ClientLifecycleManager.java:47)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25071:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.ClientLifecycleManager.scheduleTransaction(ClientLifecycleManager.java:69)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25072:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.Task.schedulePauseActivity(Task.java:7702)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25073:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.Task.startPausingLocked(Task.java:7640)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25074:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.ActivityRecord.finishIfPossible(ActivityRecord.java:3645)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25075:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.ActivityRecord.finishIfPossible(ActivityRecord.java:3425)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25076:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.Task.finishTopCrashedActivityLocked(Task.java:8840)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25077:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.RootWindowContainer.lambdafinishTopCrashedActivities20(RootWindowContainer.java:2775)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25078:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.RootWindowContainer$$ExternalSyntheticLambda30.accept(Unknown Source:10)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25079:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.Task.forAllTasks(Task.java:5158)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25080:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.WindowContainer.forAllTasks(WindowContainer.java:1843)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25081:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.WindowContainer.forAllTasks(WindowContainer.java:1843)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25082:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.WindowContainer.forAllTasks(WindowContainer.java:1843)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25083:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.WindowContainer.forAllTasks(WindowContainer.java:1843)
+  C:\Users\Okali\Desktop\Oz\logcat-full.txt:25084:10-24 14:25:31.724  1169  5457 W ActivityTaskManager:         at com.android
+.server.wm.WindowContainer.forAllTasks(WindowContainer.java:1843)
+
+step 4 returns:
+app\src\main\AndroidManifest.xml:614:            android:name="com.unity3d.player.UnityPlayerProxyActivity"
+app\src\main\AndroidManifest.xml:619:            android:name="com.unity3d.player.UnityPlayerNativeActivity"
+app\src\main\AndroidManifest.xml:626:                android:name="unityplayer.ForwardNativeEventsToDalvik"
+app\src\main\java\cn\egame\terminal\sdk\jni\EgamePayProtocol.java:24:        System.loadLibrary("egamepay_dr2");
+app\src\main\java\cn\play\dserv\CheckTool.java:77:        System.loadLibrary("dserv");
+app\src\main\java\com\ccplay\sdkmodel\jni\CCJniUtil.java:6:        System.loadLibrary("sdkmodel");
+app\src\main\java\com\chance\android\crypto\Crypto.java:13:        System.loadLibrary("ad");
+app\src\main\java\com\crittercism\app\CrittercismNDK.java:24:                System.load(LIBPATH + LIBNAME);
+app\src\main\java\com\crittercism\app\CrittercismNDK.java:57:                    System.load(LIBPATH + LIBNAME);
+app\src\main\java\com\disney\troz\LocalData.java:5:import com.unity3d.player.UnityPlayer;
+app\src\main\java\com\disney\troz\LocalData.java:85:            UnityPlayer.UnitySendMessage("GoogleIABManager", "SaveL
+BDRequest", a.a);
+app\src\main\java\com\disney\troz\LocalData.java:87:            UnityPlayer.UnitySendMessage("GoogleIABManager", "SaveL
+BDRequest", "0");
+app\src\main\java\com\disney\troz\LocalData.java:95:        UnityPlayer.UnitySendMessage("GoogleIABManager", "LoadLBDRe
+quest", lbdData);
+app\src\main\java\com\disney\troz\NotifyCenter.java:7:import com.unity3d.player.UnityPlayer;
+app\src\main\java\com\disney\troz\NotifyCenter.java:22:            UnityPlayer.UnitySendMessage("GoogleIABManager", "no
+tifyToReSumeGame", "");
+app\src\main\java\com\disney\troz\NotifyCenter.java:36:            UnityPlayer.UnitySendMessage("GoogleIABManager", "no
+tifyToResurrectByRMB", "");
+app\src\main\java\com\disney\troz\NotifyCenter.java:41:            UnityPlayer.UnitySendMessage("GoogleIABManager", "no
+tifyToPurchaseChinaGirl", "");
+app\src\main\java\com\disney\troz\NotifyCenter.java:46:            UnityPlayer.UnitySendMessage("GoogleIABManager", "no
+tifyToPurchaseSuperConumble", "");
+app\src\main\java\com\disney\troz\NotifyCenter.java:51:            UnityPlayer.UnitySendMessage("GoogleIABManager", "no
+tifyToPurchaseGlynda", "");
+app\src\main\java\com\disney\troz\NotifyCenter.java:56:            UnityPlayer.UnitySendMessage("GoogleIABManager", "no
+tifyToPurchaseSedora", "");
+app\src\main\java\com\disney\troz\NotifyCenter.java:61:            UnityPlayer.UnitySendMessage("GoogleIABManager", "no
+tifyToPurchaseEnola", "");
+app\src\main\java\com\disney\troz\NotifyCenter.java:66:            UnityPlayer.UnitySendMessage("GoogleIABManager", "ar
+tifactPurchaseSucceed", itemID);
+app\src\main\java\com\disney\troz\NotifyCenter.java:68:            UnityPlayer.UnitySendMessage("GoogleIABManager", "no
+tifyCharacterGift12YSucceed", itemID);
+app\src\main\java\com\disney\troz\NotifyCenter.java:70:            UnityPlayer.UnitySendMessage("GoogleIABManager", "no
+tifyGitf5YSucceed", itemID);
+app\src\main\java\com\disney\troz\NotifyCenter.java:72:            UnityPlayer.UnitySendMessage("GoogleIABManager", "co
+nsumePurchaseSucceeded", itemID);
+app\src\main\java\com\disney\troz\NotifyCenter.java:77:        UnityPlayer.UnitySendMessage("GoogleIABManager", "notify
+ToShowExitConfirmDialog", "");
+app\src\main\java\com\disney\troz\NotifyCenter.java:81:        UnityPlayer.UnitySendMessage("GoogleIABManager", "sendYu
+nYing", YUNYING);
+app\src\main\java\com\disney\troz\TempleRunOzActivity.java:47:import com.unity3d.player.UnityPlayer;
+app\src\main\java\com\disney\troz\TempleRunOzActivity.java:48:import com.unity3d.player.UnityPlayerActivity;
+app\src\main\java\com\disney\troz\TempleRunOzActivity.java:61:public class TempleRunOzActivity extends UnityPlayerActiv
+ity implements Configuration, MogoOfferPointCallBack, MogoOfferListCallback {
+app\src\main\java\com\disney\troz\TempleRunOzActivity.java:183:                UnityPlayer.UnitySendMessage("GoogleIABM
+anager", "CloseVideo", "");
+app\src\main\java\com\disney\troz\TempleRunOzActivity.java:220:    @Override // com.unity3d.player.UnityPlayerActivity,
+ android.app.Activity
+app\src\main\java\com\disney\troz\TempleRunOzActivity.java:259:    @Override // com.unity3d.player.UnityPlayerActivity,
+ android.app.Activity, android.view.Window.Callback
+app\src\main\java\com\disney\troz\TempleRunOzActivity.java:407:    @Override // com.unity3d.player.UnityPlayerActivity,
+ android.app.Activity
+app\src\main\java\com\disney\troz\TempleRunOzActivity.java:625:    @Override // com.unity3d.player.UnityPlayerActivity,
+ android.app.Activity
+app\src\main\java\com\disney\troz\TempleRunOzActivity.java:631:    @Override // com.unity3d.player.UnityPlayerActivity,
+ android.app.Activity
+app\src\main\java\com\disney\troz\TempleRunOzActivity.java:642:            UnityPlayer.UnitySendMessage("GoogleIABManag
+er", "AddGem", String.valueOf(point));
+app\src\main\java\com\prime31\EtceteraPluginBase.java:15:    protected Field _unityPlayerActivityField;
+app\src\main\java\com\prime31\EtceteraPluginBase.java:16:    protected Class<?> _unityPlayerClass;
+app\src\main\java\com\prime31\EtceteraPluginBase.java:31:            this._unityPlayerClass = Class.forName("com.unity3
+d.player.UnityPlayer");
+app\src\main\java\com\prime31\EtceteraPluginBase.java:32:            this._unityPlayerActivityField = this._unityPlayer
+Class.getField("currentActivity");
+app\src\main\java\com\prime31\EtceteraPluginBase.java:33:            this._unitySendMessageMethod = this._unityPlayerCl
+ass.getMethod("UnitySendMessage", String.class, String.class, String.class);
+app\src\main\java\com\prime31\EtceteraPluginBase.java:35:            Log.i(TAG, "could not find UnityPlayer class: " +
+e.getMessage());
+app\src\main\java\com\prime31\EtceteraPluginBase.java:44:        if (this._unityPlayerActivityField != null) {
+app\src\main\java\com\prime31\EtceteraPluginBase.java:46:                Activity activity = (Activity) this._unityPlay
+erActivityField.get(this._unityPlayerClass);
+app\src\main\java\com\prime31\EtceteraPluginBase.java:61:            Activity activity = (Activity) _instance._unityPla
+yerActivityField.get(_instance._unityPlayerClass);
+app\src\main\java\com\prime31\GoogleIABPluginBase.java:18:    private Field _unityPlayerActivityField;
+app\src\main\java\com\prime31\GoogleIABPluginBase.java:19:    private Class<?> _unityPlayerClass;
+app\src\main\java\com\prime31\GoogleIABPluginBase.java:31:            this._unityPlayerClass = Class.forName("com.unity
+3d.player.UnityPlayer");
+app\src\main\java\com\prime31\GoogleIABPluginBase.java:32:            this._unityPlayerActivityField = this._unityPlaye
+rClass.getField("currentActivity");
+app\src\main\java\com\prime31\GoogleIABPluginBase.java:33:            this._unitySendMessageMethod = this._unityPlayerC
+lass.getMethod("UnitySendMessage", String.class, String.class, String.class);
+app\src\main\java\com\prime31\GoogleIABPluginBase.java:35:            Log.i(TAG, "could not find UnityPlayer class: " +
+ e.getMessage());
+app\src\main\java\com\prime31\GoogleIABPluginBase.java:44:        if (this._unityPlayerActivityField != null) {
+app\src\main\java\com\prime31\GoogleIABPluginBase.java:46:                return (Activity) this._unityPlayerActivityFi
+eld.get(this._unityPlayerClass);
+app\src\main\java\com\secneo\wrapper\Helper.java:26:            System.loadLibrary("DexHelper");
+app\src\main\java\com\secneo\wrapper\Helper.java:28:                System.load(PPATH);
+app\src\main\java\com\unicom\dcLoader\Utils.java:593:                System.loadLibrary("megjb");
+app\src\main\java\com\unicom\dcLoader\Utils.java:617:                    System.load(str);
+app\src\main\java\com\unicom\dcLoader\Utils.java:627:                    System.load(str2);
+app\src\main\java\com\unicom\dcLoader\Utils.java:674:                    System.load("/data/data/" + this.f.getPackageN
+ame() + "/.ulibs/decrypt.so");
+app\src\main\java\com\unicom\dcLoader\Utils.java:720:                        System.load("/data/data/" + this.f.getAppl
+icationInfo().packageName + "/.ulibs/libunicomsdk.so");
+app\src\main\java\com\unipay\account\loader\Loader.java:162:                    System.load(str2);
+app\src\main\java\com\unity3d\player\aa.java:5:    private /* synthetic */ UnityPlayer a;
+app\src\main\java\com\unity3d\player\aa.java:7:    aa(UnityPlayer unityPlayer) {
+app\src\main\java\com\unity3d\player\aa.java:8:        this.a = unityPlayer;
+app\src\main\java\com\unity3d\player\ab.java:9:    private /* synthetic */ UnityPlayer a;
+app\src\main\java\com\unity3d\player\ab.java:11:    ab(UnityPlayer unityPlayer) {
+app\src\main\java\com\unity3d\player\ab.java:12:        this.a = unityPlayer;
+app\src\main\java\com\unity3d\player\ac.java:5:    private /* synthetic */ UnityPlayer a;
+app\src\main\java\com\unity3d\player\ac.java:7:    ac(UnityPlayer unityPlayer) {
+app\src\main\java\com\unity3d\player\ac.java:8:        this.a = unityPlayer;
+app\src\main\java\com\unity3d\player\m.java:29:        return this.a.getBoolean(String.format("%s.%s", "unityplayer", "
+ForwardNativeEventsToDalvik"));
+app\src\main\java\com\unity3d\player\p.java:27:    private final UnityPlayer b;
+app\src\main\java\com\unity3d\player\p.java:65:    protected p(Context context, UnityPlayer unityPlayer) {
+app\src\main\java\com\unity3d\player\p.java:67:        this.b = unityPlayer;
+app\src\main\java\com\unity3d\player\q.java:12:        jadx.core.utils.exceptions.JadxRuntimeException: Failed to proce
+ss method for inline: com.unity3d.player.p.e(com.unity3d.player.p):com.unity3d.player.UnityPlayer
+app\src\main\java\com\unity3d\player\q.java:23:            com.unity3d.player.UnityPlayer r0 = com.unity3d.player.p.e(r
+0)
+app\src\main\java\com\unity3d\player\u.java:13:        UnityPlayer unityPlayer = this.a.b;
+app\src\main\java\com\unity3d\player\u.java:19:        unityPlayer.nativeAttitude(f, f2, f3, f4, p.f());
+app\src\main\java\com\unity3d\player\UnityPlayer.java:56:public class UnityPlayer extends FrameLayout implements GLSurf
+aceView.Renderer, a.InterfaceC0015a {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:117:    public UnityPlayer(ContextWrapper contextWrapper) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:151:        this.Z = new BroadcastReceiver() { // from class: com
+.unity3d.player.UnityPlayer.18
+app\src\main\java\com\unity3d\player\UnityPlayer.java:155:                    UnityPlayer.this.queueEvent(new Runnable(
+) { // from class: com.unity3d.player.UnityPlayer.18.1
+app\src\main\java\com\unity3d\player\UnityPlayer.java:158:                            UnityPlayer.this.nativeJoystickRe
+moved();
+app\src\main\java\com\unity3d\player\UnityPlayer.java:179:            UnityPlayerProxyActivity.copyPlayerPrefs(contextW
+rapper, new String[]{"com.unity3d.player.UnityPlayerActivity", "com.unity3d.player.UnityPlayerNativeActivity", currentA
+ctivity.getLocalClassName()});
+app\src\main\java\com\unity3d\player\UnityPlayer.java:183:        System.loadLibrary("mono");
+app\src\main\java\com\unity3d\player\UnityPlayer.java:188:                System.loadLibrary("unity");
+app\src\main\java\com\unity3d\player\UnityPlayer.java:232:            z zVar = new z(this.i, i, z, false, this) { // fr
+om class: com.unity3d.player.UnityPlayer.17
+app\src\main\java\com\unity3d\player\UnityPlayer.java:241:                    if (UnityPlayer.this.z == -1) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:242:                        UnityPlayer.this.z = UnityPlayer.this
+.J.getInt("default_aa", 0);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:244:                    if (!UnityPlayer.this.A) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:245:                        UnityPlayer.this.A = UnityPlayer.this
+.canUse32bitDisplayBuffer() ? UnityPlayer.this.J.getBoolean("32bit_display", false) : false;
+app\src\main\java\com\unity3d\player\UnityPlayer.java:247:                    super.init(i2, z2, UnityPlayer.this.A ? 3
+2 : 16, UnityPlayer.this.J.getBoolean("24bit_depth", false) ? 24 : 16, 0, UnityPlayer.this.z);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:276:        this.k.queueEvent(new Runnable() { // from class: com
+.unity3d.player.UnityPlayer.19
+app\src\main\java\com\unity3d\player\UnityPlayer.java:279:                UnityPlayer.this.nativeInit(i, i2);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:338:        queueEvent(new Runnable() { // from class: com.unity3
+d.player.UnityPlayer.3
+app\src\main\java\com\unity3d\player\UnityPlayer.java:341:                UnityPlayer.this.nativeKeyState(i2, unicodeCh
+ar, z, scanCode, deviceId);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:374:                queueEvent(new Runnable(i2, 0, x, y, f, f2, f
+FloatValue) { // from class: com.unity3d.player.UnityPlayer.5
+app\src\main\java\com\unity3d\player\UnityPlayer.java:421:                        UnityPlayer.this.nativeQueueGUIEvent(
+i3, this.c, this.d, i4);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:422:                        float f3 = UnityPlayer.this.w;
+app\src\main\java\com\unity3d\player\UnityPlayer.java:425:                        UnityPlayer.this.nativeSetMouseDelta(
+this.c - this.e, -(this.d - this.f), this.a == 8 ? this.g : 0.0f);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:426:                        UnityPlayer.this.nativeSetMousePositi
+on(f4, f5);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:428:                            UnityPlayer.this.nativeSetMouseBu
+tton(0, true);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:430:                            UnityPlayer.this.nativeSetMouseBu
+tton(0, false);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:501:            queueEvent(new Runnable() { // from class: com.un
+ity3d.player.UnityPlayer.6
+app\src\main\java\com\unity3d\player\UnityPlayer.java:506:                        Integer[] numArrB = UnityPlayer.b(Uni
+tyPlayer.this, motionEvent.getDeviceId());
+app\src\main\java\com\unity3d\player\UnityPlayer.java:511:                                    UnityPlayer.this.nativeSe
+tJoystickPosition(iIntValue, i2 - 1, ((Float) UnityPlayer.this.V.invoke(motionEvent, numArrB[i2], Integer.valueOf(i))).
+floatValue());
+app\src\main\java\com\unity3d\player\UnityPlayer.java:524:    static /* synthetic */ Integer[] b(UnityPlayer unityPlaye
+r, int i) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:525:        if (unityPlayer.W == null) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:526:            unityPlayer.getConnectedJoysticks();
+app\src\main\java\com\unity3d\player\UnityPlayer.java:528:        Integer[] numArr = (Integer[]) unityPlayer.W.get(Inte
+ger.valueOf(i));
+app\src\main\java\com\unity3d\player\UnityPlayer.java:532:        unityPlayer.getConnectedJoysticks();
+app\src\main\java\com\unity3d\player\UnityPlayer.java:533:        Integer[] numArr2 = (Integer[]) unityPlayer.W.get(Int
+eger.valueOf(i));
+app\src\main\java\com\unity3d\player\UnityPlayer.java:558:            this.k.queueEvent(new Runnable() { // from class:
+ com.unity3d.player.UnityPlayer.22
+app\src\main\java\com\unity3d\player\UnityPlayer.java:561:                    UnityPlayer.this.nativeResume();
+app\src\main\java\com\unity3d\player\UnityPlayer.java:574:    static /* synthetic */ void f(UnityPlayer unityPlayer) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:575:        if (unityPlayer.l != null) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:576:            unityPlayer.l.a(unityPlayer.v, unityPlayer.w);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:582:    static /* synthetic */ boolean k(UnityPlayer unityPlayer)
+ {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:583:        unityPlayer.H = true;
+app\src\main\java\com\unity3d\player\UnityPlayer.java:718:            queueEvent(new Runnable() { // from class: com.un
+ity3d.player.UnityPlayer.4
+app\src\main\java\com\unity3d\player\UnityPlayer.java:721:                    UnityPlayer.this.nativeTouch(i3, f, f2, i
+5, j, i4);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:969:        a(new Runnable() { // from class: com.unity3d.player.
+UnityPlayer.9
+app\src\main\java\com\unity3d\player\UnityPlayer.java:972:                if (UnityPlayer.this.c) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:973:                    ((InputMethodManager) UnityPlayer.this.i.
+getSystemService("input_method")).toggleSoftInput(1, 0);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:974:                    UnityPlayer.this.c = false;
+app\src\main\java\com\unity3d\player\UnityPlayer.java:975:                } else if (UnityPlayer.this.a != null) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:976:                    UnityPlayer.this.a.dismiss();
+app\src\main\java\com\unity3d\player\UnityPlayer.java:977:                    UnityPlayer.this.a = null;
+app\src\main\java\com\unity3d\player\UnityPlayer.java:985:            AlertDialog alertDialogCreate = new AlertDialog.B
+uilder(this.i).setTitle("Failure to initialize!").setPositiveButton("OK", new DialogInterface.OnClickListener() { // fr
+om class: com.unity3d.player.UnityPlayer.1
+app\src\main\java\com\unity3d\player\UnityPlayer.java:988:                    UnityPlayer.this.c();
+app\src\main\java\com\unity3d\player\UnityPlayer.java:999:            AlertDialog alertDialogCreate2 = new AlertDialog.
+Builder(this.i).setTitle("Old Android OS detected!").setPositiveButton("OK", new DialogInterface.OnClickListener() { //
+ from class: com.unity3d.player.UnityPlayer.16
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1002:                    UnityPlayer.a();
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1003:                    UnityPlayer.this.a(i, z);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1047:    protected boolean loadLibrary(String str) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1049:            System.loadLibrary(str);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1090:        queueEvent(new Runnable() { // from class: com.unity
+3d.player.UnityPlayer.11
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1093:                UnityPlayer.this.nativeVideoFrameCallback(iC
+, bArr, iA, iB);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1110:                this.F.a(new com.unity3d.player.a.f() { // f
+rom class: com.unity3d.player.UnityPlayer.2
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1113:                        UnityPlayer.this.G = true;
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1114:                        UnityPlayer.k(UnityPlayer.this);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1119:                        UnityPlayer.this.G = false;
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1120:                        UnityPlayer.k(UnityPlayer.this);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1265:                    this.k.queueEvent(new Runnable() { // fr
+om class: com.unity3d.player.UnityPlayer.20
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1268:                            UnityPlayer.this.nativeDone();
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1273:                    this.k.queueEvent(new Runnable() { // fr
+om class: com.unity3d.player.UnityPlayer.21
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1276:                            UnityPlayer.f(UnityPlayer.this);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1277:                            if (!UnityPlayer.this.nativePaus
+e()) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1280:                                UnityPlayer.this.nativeDone(
+);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1312:            this.k.queueEvent(new Runnable() { // from class
+: com.unity3d.player.UnityPlayer.15
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1315:                    if (UnityPlayer.this.isFinishing()) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1340:        queueEvent(new Runnable() { // from class: com.unity
+3d.player.UnityPlayer.10
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1344:                    UnityPlayer.this.nativeSetInputString(st
+r);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1347:                    UnityPlayer.this.nativeSoftInputClosed()
+;
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1384:            queueEvent(new Runnable() { // from class: com.u
+nity3d.player.UnityPlayer.14
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1387:                    UnityPlayer.this.nativeCompass(0.0f, 0.0
+f, 0.0f, 0.0f, 0.0f, -1.0d);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1407:            queueEvent(new Runnable() { // from class: com.u
+nity3d.player.UnityPlayer.13
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1410:                    UnityPlayer.this.nativeGyro(0.0f, 0.0f,
+0.0f, -1L);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1456:        a(new Runnable() { // from class: com.unity3d.player
+.UnityPlayer.7
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1492:        a(new Runnable() { // from class: com.unity3d.player
+.UnityPlayer.8
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1495:                if (UnityPlayer.this.b) {
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1497:                    UnityPlayer.this.c = true;
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1500:                UnityPlayer unityPlayer = UnityPlayer.this;
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1501:                ContextWrapper contextWrapper = UnityPlayer.
+this.i;
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1502:                UnityPlayer unityPlayer2 = this;
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1509:                unityPlayer.a = new x(contextWrapper, unityP
+layer2, str3, i2, z5, z6, z7, str2);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1510:                UnityPlayer.this.a.show();
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1531:        a(new Runnable() { // from class: com.unity3d.player
+.UnityPlayer.12
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1534:                UnityPlayer.this.i.startActivity(intent);
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1568:            this.k.queueEvent(new Runnable() { // from class
+: com.unity3d.player.UnityPlayer.23
+app\src\main\java\com\unity3d\player\UnityPlayer.java:1571:                    UnityPlayer.this.nativeFocusChanged(Unit
+yPlayer.this.N);
+app\src\main\java\com\unity3d\player\UnityPlayerActivity.java:11:public class UnityPlayerActivity extends Activity {
+app\src\main\java\com\unity3d\player\UnityPlayerActivity.java:12:    private UnityPlayer a;
+app\src\main\java\com\unity3d\player\UnityPlayerActivity.java:25:        this.a = new UnityPlayer(this);
+app\src\main\java\com\unity3d\player\UnityPlayerNativeActivity.java:10:public class UnityPlayerNativeActivity extends N
+ativeActivity {
+app\src\main\java\com\unity3d\player\UnityPlayerNativeActivity.java:11:    protected UnityPlayer mUnityPlayer;
+app\src\main\java\com\unity3d\player\UnityPlayerNativeActivity.java:16:        this.mUnityPlayer.configurationChanged(c
+onfiguration);
+app\src\main\java\com\unity3d\player\UnityPlayerNativeActivity.java:21:        this.mUnityPlayer = new UnityPlayer(this
+);
+app\src\main\java\com\unity3d\player\UnityPlayerNativeActivity.java:27:        if (this.mUnityPlayer.getSettings().getB
+oolean("hide_status_bar", true)) {
+app\src\main\java\com\unity3d\player\UnityPlayerNativeActivity.java:30:        this.mUnityPlayer.init(this.mUnityPlayer
+.getSettings().getInt("gles_mode", 1), false);
+app\src\main\java\com\unity3d\player\UnityPlayerNativeActivity.java:31:        View view = this.mUnityPlayer.getView();
+app\src\main\java\com\unity3d\player\UnityPlayerNativeActivity.java:39:        this.mUnityPlayer.quit();
+app\src\main\java\com\unity3d\player\UnityPlayerNativeActivity.java:45:        this.mUnityPlayer.pause();
+app\src\main\java\com\unity3d\player\UnityPlayerNativeActivity.java:47:            this.mUnityPlayer.quit();
+app\src\main\java\com\unity3d\player\UnityPlayerNativeActivity.java:54:        this.mUnityPlayer.resume();
+app\src\main\java\com\unity3d\player\UnityPlayerNativeActivity.java:60:        this.mUnityPlayer.windowFocusChanged(z);
+app\src\main\java\com\unity3d\player\UnityPlayerProxyActivity.java:12:public class UnityPlayerProxyActivity extends Act
+ivity {
+app\src\main\java\com\unity3d\player\UnityPlayerProxyActivity.java:39:        String[] strArr = {"com.unity3d.player.Un
+ityPlayerActivity", "com.unity3d.player.UnityPlayerNativeActivity"};
+app\src\main\java\com\unity3d\player\x.java:21:    private UnityPlayer b;
+app\src\main\java\com\unity3d\player\x.java:23:    public x(Context context, UnityPlayer unityPlayer, String str, int i
+, boolean z, boolean z2, boolean z3, String str2) {
+app\src\main\java\com\unity3d\player\x.java:28:        this.b = unityPlayer;
+
